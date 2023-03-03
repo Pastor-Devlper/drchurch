@@ -11,20 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: '간략정보'
       section: services
-    - title: "Portfolio"
+    - title: 'Vlog'
       section: portfolio
-    - title: "About"
+    - title: 'About'
       section: about
-    - title: "Timeline"
+    - title: '지나온길'
       section: timeline
-    - title: "Team"
+    - title: '섬기는이들'
       section: team
-    - title: "Contact"
+    - title: '연락처'
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -38,19 +36,19 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: 'Servicios'
       section: servicios
-    - title: "Portafolio"
+    - title: 'Portafolio'
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: 'Sobre Nosotros'
       section: nosotros
-    - title: "Cronología"
+    - title: 'Cronología'
       section: cronologia
-    - title: "Equipo"
+    - title: 'Equipo'
       section: equipo
-    - title: "Contáctenos"
+    - title: 'Contáctenos'
       section: contacto
-    - title: "Fuente de la plantilla"
+    - title: 'Fuente de la plantilla'
       url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
@@ -61,17 +59,17 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Leistungen"
+    - title: 'Leistungen'
       section: Leistungen
-    - title: "Portfolio"
+    - title: 'Portfolio'
       section: Portfolio
-    - title: "Über uns"
+    - title: 'Über uns'
       section: Ueber
-    - title: "Geschichte"
+    - title: 'Geschichte'
       section: Geschichte
-    - title: "Team"
+    - title: 'Team'
       section: Team
-    - title: "Kontakt"
+    - title: 'Kontakt'
       section: Kontakt
-    - title: "Quellcode des Themas"
+    - title: 'Quellcode des Themas'
       url: https://github.com/raviriley/agency-jekyll-theme/
